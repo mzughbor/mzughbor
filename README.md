@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=💛Mahmoud%20Zughbor%20💎&fontSize=40&fontAlignY=35&desc=Web%20Developer%20|%20Python%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahmoud%20Zughbor%20💎&fontSize=40&fontAlignY=35&desc=Web%20Developer%20|%20Python%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" />
 </p>
 
 ---
@@ -86,4 +86,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mzughbor&color=blue&style=for-the-badge&label=Visitors)
 
-💜
+💜 
+
+wish you the best 💠

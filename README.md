@@ -86,5 +86,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mzughbor&color=blue&style=for-the-badge&label=Visitors" alt="Visitor Count" style="vertical-align: middle;" />
-  <span style="vertical-align: middle;"> 💜 wish you the best 💠</span>
+  <p style="vertical-align: middle;"> 💜 wish you the best 💠</p>
 </div>

@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahmoud%20Zughbor%20💎&fontSize=40&fontAlignY=35&desc=Web%20Developer%20|%20Python%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=💛Mahmoud%20Zughbor%20💎&fontSize=40&fontAlignY=35&desc=Web%20Developer%20|%20Python%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ### ✨ About Me  
 🔹 Passionate about building **responsive websites** and **data-driven apps**  
 🔹 Skilled in **WordPress, Python, and full-stack web development**  
-🔹 Currently exploring **Algorithms 🎰, Chess ♟️, Electronic music 🎹 and Embedded Systems 🤖 (like health devices)**  
+🔹 Currently exploring **Algorithms 🎰, Chess ♟️, Electronic music 🎹, and Embedded Systems 🤖 (like health devices)**  
 🔹 Aiming to create tools that make a real impact 🌍  
 
 ---
@@ -49,9 +49,10 @@
 ### 🚀 Featured Projects  
 
 - 🌦️ **[Weather App](https://github.com/mzughbor/Weather-app-js-project)** – Responsive app fetching live weather data with JS + API integration.  
-- 📝 **[Recovery To-Do List](http://github.com/mzughbor/recovery-p-c02-s10-toDoList)** – Simple task manager for productivity & learning core JS concepts.  
+- 📝 **[Recovery To-Do List](https://github.com/mzughbor/recovery-p-c02-s10-toDoList)** – Simple task manager for productivity & learning core JS concepts.  
 - 🎨 **[My Portfolio](https://github.com/mzughbor/portfolio)** – Personal developer portfolio showcasing projects & skills.  
 - 🔍 **[PHP Web Scraper Plugin](https://github.com/mzughbor/WeScraper)** – Custom WordPress plugin for automated data extraction.  
+- 🍔 **[Omnifood Responsive Project](https://github.com/mzughbor/recovery-p-c01-s08-omnifood-project-responsive-version)** – Modern food website with responsive design. [🌐 Live Demo](https://mzughbor.github.io/recovery-p-c01-s08-omnifood-project-responsive-version/index.html)  
 
 ---
 
@@ -83,7 +84,6 @@
 
 ✨ *“Code is like art — simple, elegant, and timeless.”* ✨  
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-50k+-brightgreen?style=for-the-badge&logo=github)
+![Visitor Count](https://komarev.com/ghpvc/?username=mzughbor&color=blue&style=for-the-badge&label=Visitors)
 
-
-💜 💛
+💜

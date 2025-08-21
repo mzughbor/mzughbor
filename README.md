@@ -83,4 +83,7 @@
 
 ✨ *“Code is like art — simple, elegant, and timeless.”* ✨  
 
+![Profile Views](https://img.shields.io/badge/Profile%20Views-50k+-brightgreen?style=for-the-badge&logo=github)
+
+
 💜 💛

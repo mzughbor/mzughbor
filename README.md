@@ -13,7 +13,7 @@
 ### ✨ About Me  
 🔹 Passionate about building **responsive websites** and **data-driven apps**  
 🔹 Skilled in **WordPress, Python, and full-stack web development**  
-🔹 Currently exploring **Data Science, Algorithms, Chess ♟️, Embedded Systems 🤖 (like health devices & insulin pumps 💉)**  
+🔹 Currently exploring **Algorithms 🎰, Chess ♟️, Electronic music 🎹 and Embedded Systems 🤖 (like health devices)**  
 🔹 Aiming to create tools that make a real impact 🌍  
 
 ---
@@ -51,7 +51,7 @@
 - 🌦️ **[Weather App](https://github.com/mzughbor/Weather-app-js-project)** – Responsive app fetching live weather data with JS + API integration.  
 - 📝 **[Recovery To-Do List](http://github.com/mzughbor/recovery-p-c02-s10-toDoList)** – Simple task manager for productivity & learning core JS concepts.  
 - 🎨 **[My Portfolio](https://github.com/mzughbor/portfolio)** – Personal developer portfolio showcasing projects & skills.  
-- 🔍 **[PHP Web Scraper Plugin](https://github.com/mzughbor/web-scraper-plugin)** – Custom WordPress plugin for automated data extraction.  
+- 🔍 **[PHP Web Scraper Plugin](https://github.com/mzughbor/WeScraper)** – Custom WordPress plugin for automated data extraction.  
 
 ---
 
@@ -82,3 +82,5 @@
 ---
 
 ✨ *“Code is like art — simple, elegant, and timeless.”* ✨  
+
+💜 💛

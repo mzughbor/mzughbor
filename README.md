@@ -84,7 +84,7 @@
 
 ✨ *“Code is like art — simple, elegant, and timeless.”* ✨  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mzughbor&color=blue&style=for-the-badge&label=Visitors" alt="Visitor Count"/>
-  &nbsp; 💜 wish you the best 💠
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mzughbor&color=blue&style=for-the-badge&label=Visitors" alt="Visitor Count" style="vertical-align: middle;" />
+  <span style="vertical-align: middle;"> 💜 wish you the best 💠</span>
+</div>

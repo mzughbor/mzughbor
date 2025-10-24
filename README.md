@@ -13,7 +13,7 @@
 ### ✨ About Me  
 🔹 Passionate about building **responsive websites** and **data-driven apps**  
 🔹 Skilled in **WordPress, Python, and full-stack web development**  
-🔹 Currently exploring and playing with ** Chess ♟️, Algorithms 🎰, Data Sturactures and Electronic music 🎹)**  
+🔹 Currently exploring and playing with ** Chess♟️, Algorithms ** 🎰, Data Sturactures and Electronic music 🎹  
 🔹 Aiming to create tools that make a real impact to change people's lives for the better. 🌍  
 
 ---

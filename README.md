@@ -52,8 +52,13 @@
 - 📝 **[Recovery To-Do List](https://github.com/mzughbor/recovery-p-c02-s10-toDoList)** – Simple task manager for productivity & learning core JS concepts.  
 - 🎨 **[My Portfolio](https://github.com/mzughbor/portfolio)** – Personal developer portfolio showcasing projects & skills.  
 - 🔍 **[PHP Web Scraper Plugin](https://github.com/mzughbor/WeScraper)** – Custom WordPress plugin for automated data extraction.  
-- 🍔 **[Omnifood Responsive Project](https://github.com/mzughbor/recovery-p-c01-s08-omnifood-project-responsive-version)** – Modern food website with responsive design. [🌐 Live Demo](https://mzughbor.github.io/recovery-p-c01-s08-omnifood-project-responsive-version/index.html)
-- 🍔 **[Food Ordering Platform](https://github.com/mzughbor/Food-Ordering-Platform)** – Full Stack Food Ordering System with responsive design, Django in the backend with Bootstrap5 to extend the front omnifood page project. [🌐 Live Demo](https://mzughbor.duckdns.org/food-delivery-pro/)
+- 🎥 **Vyvlive – Headless Live Site**  
+  A multilingual, SEO-ready headless web platform. The frontend was built in **React + Tailwind**, fully decoupled from the backend's **Django REST API**.  
+  Content delivery flow, server-side rendering for SEO in multiple languages, and optimized media handling.
+  **Tech Stack:** React, TailwindCSS, Django, Django REST Framework, NGINX, PostgreSQL.
+  **Live:** https://vyvlive.com
+- 🍔 **[Omnifood Responsive Page](https://github.com/mzughbor/recovery-p-c01-s08-omnifood-project-responsive-version)** – Modern fictional food website with responsive design. [🌐 Live Demo](https://mzughbor.github.io/recovery-p-c01-s08-omnifood-project-responsive-version/index.html)
+- 🍔🍔 **[Food Ordering Platform](https://github.com/mzughbor/Food-Ordering-Platform)** – Full Stack Food Ordering & Delivery System with responsive design, Django in the backend with Bootstrap5 to extend the front omnifood page project. [🌐 Live Demo](https://mzughbor.duckdns.org/food-delivery-pro/)
 
 ---
 

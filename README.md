@@ -52,7 +52,8 @@
 - 📝 **[Recovery To-Do List](https://github.com/mzughbor/recovery-p-c02-s10-toDoList)** – Simple task manager for productivity & learning core JS concepts.  
 - 🎨 **[My Portfolio](https://github.com/mzughbor/portfolio)** – Personal developer portfolio showcasing projects & skills.  
 - 🔍 **[PHP Web Scraper Plugin](https://github.com/mzughbor/WeScraper)** – Custom WordPress plugin for automated data extraction.  
-- 🍔 **[Omnifood Responsive Project](https://github.com/mzughbor/recovery-p-c01-s08-omnifood-project-responsive-version)** – Modern food website with responsive design. [🌐 Live Demo](https://mzughbor.github.io/recovery-p-c01-s08-omnifood-project-responsive-version/index.html)  
+- 🍔 **[Omnifood Responsive Project](https://github.com/mzughbor/recovery-p-c01-s08-omnifood-project-responsive-version)** – Modern food website with responsive design. [🌐 Live Demo](https://mzughbor.github.io/recovery-p-c01-s08-omnifood-project-responsive-version/index.html)
+- 🍔 **[Food Ordering Platform](https://github.com/mzughbor/Food-Ordering-Platform)** – Full Stack Food Ordering System with responsive design, Django in the backend with Bootstrap5 to extend the front omnifood page project. [🌐 Live Demo](https://mzughbor.duckdns.org/food-delivery-pro/)
 
 ---
 

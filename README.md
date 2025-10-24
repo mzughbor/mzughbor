@@ -13,8 +13,8 @@
 ### ✨ About Me  
 🔹 Passionate about building **responsive websites** and **data-driven apps**  
 🔹 Skilled in **WordPress, Python, and full-stack web development**  
-🔹 Currently exploring **Algorithms 🎰, Chess ♟️, Electronic music 🎹, and Embedded Systems 🤖 (like health devices)**  
-🔹 Aiming to create tools that make a real impact 🌍  
+🔹 Currently exploring and playing with ** Chess ♟️, Algorithms 🎰, Data Sturactures and Electronic music 🎹)**  
+🔹 Aiming to create tools that make a real impact to change people's lives for the better. 🌍  
 
 ---
 
@@ -52,11 +52,7 @@
 - 📝 **[Recovery To-Do List](https://github.com/mzughbor/recovery-p-c02-s10-toDoList)** – Simple task manager for productivity & learning core JS concepts.  
 - 🎨 **[My Portfolio](https://github.com/mzughbor/portfolio)** – Personal developer portfolio showcasing projects & skills.  
 - 🔍 **[PHP Web Scraper Plugin](https://github.com/mzughbor/WeScraper)** – Custom WordPress plugin for automated data extraction.  
-- 🎥 **Vyvlive – Headless Live Site**  
-  A multilingual, SEO-ready headless web platform. The frontend was built in **React + Tailwind**, fully decoupled from the backend's **Django REST API**.  
-  Content delivery flow, server-side rendering for SEO in multiple languages, and optimized media handling.
-  **Tech Stack:** React, TailwindCSS, Django, Django REST Framework, NGINX, PostgreSQL.
-  **Live:** https://vyvlive.com
+- 🎥 **[Vyvlive – Headless Live Site](https://vyvlive.com/ar)** –  A multilingual, SEO-ready headless web platform. The frontend was built in **React + Tailwind**, fully decoupled from the backend with **Django REST API**... Content delivery flow, server-side rendering for SEO in multiple languages. [🌐 Live Demo](https://vyvlive.com)
 - 🍔 **[Omnifood Responsive Page](https://github.com/mzughbor/recovery-p-c01-s08-omnifood-project-responsive-version)** – Modern fictional food website with responsive design. [🌐 Live Demo](https://mzughbor.github.io/recovery-p-c01-s08-omnifood-project-responsive-version/index.html)
 - 🍔🍔 **[Food Ordering Platform](https://github.com/mzughbor/Food-Ordering-Platform)** – Full Stack Food Ordering & Delivery System with responsive design, Django in the backend with Bootstrap5 to extend the front omnifood page project. [🌐 Live Demo](https://mzughbor.duckdns.org/food-delivery-pro/)
 

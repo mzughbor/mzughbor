@@ -1,56 +1,71 @@
 <p align="center">
-  <code>Request → Nginx (SSL) → Django (Auth) → PostgreSQL | Validate → Authorize → Log</code>
+  <code>client → nginx → app → database | validate → authorize → log</code>
 </p>
 
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahmoud%20Zughbor&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20|%20SecOps%20|%20Infrastructure&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahmoud%20Zughbor&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Web%20Security%20|%20Linux&descAlignY=55&descAlign=50" />
 </p>
 
 ---
 
 <h1 align="center">Hi 👋 I'm Mahmoud Zughbor</h1>
-<h3 align="center">Full-Stack Developer | Infrastructure | Transitioning to Web Security</h3>
+<h3 align="center">Full-Stack Developer | Web Security | Infrastructure | Linux</h3>
 
 ---
 
 ### 🧠 Profile  
 
-[cite_start]Full-stack developer with a B.S. in IT (2022) and professional experience in building and deploying secure web applications[cite: 4, 49, 51]. [cite_start]My expertise spans the entire development lifecycle, from API architecture to Linux server hardening and production deployment[cite: 5, 11, 40].
+Full-stack developer with experience building and deploying web applications. Work includes API development, data handling, and operating Linux-based environments.
 
-I am currently specializing in **Web Security (OWASP Top 10)** and **Offensive Security** to bridge the gap between building software and protecting it.
+Currently developing deeper knowledge in web security (OWASP Top 10) and system design, with an emphasis on building secure and reliable systems.
 
 ---
 
 ### ⚙️ Technical Skills  
 
-[cite_start]**Languages** Python (Django/Flask), JavaScript (React/Next.js), PHP [cite: 8, 9]
+**Languages**  
+Python, JavaScript, PHP  
 
-[cite_start]**Infrastructure & Security** Linux (Ubuntu Administration), Nginx (Reverse Proxy/SSL), CI/CD Pipelines, OWASP Methodologies [cite: 10, 18, 29, 40]
+**Frameworks & Libraries**  
+Django, React, Next.js  
 
-[cite_start]**Databases** PostgreSQL, MySQL, SQLite [cite: 9]
+**Databases**  
+PostgreSQL, MySQL, SQLite  
 
-**Current Focus** Secure SDLC, Offensive Security (Hackers Academy), and AI-driven Security Tooling.
+**Infrastructure & Tools**  
+Linux (Ubuntu), Nginx, Git, REST APIs  
+
+**Currently Learning**  
+Web Security (OWASP Top 10), Secure Coding Practices  
 
 ---
 
 ### 🚀 Selected Projects  
 
-**VyvLive Platform** 🔗 https://vyvlive.com/ar  
-[cite_start]Headless business platform built with a React frontend and Django REST API[cite: 19, 21].
-- [cite_start]Decoupled, secure architecture for high-performance content delivery.
-- [cite_start]Multilingual SEO-oriented implementation with Prerender-based crawlers[cite: 24, 26].
+**VyvLive Platform**  
+🔗 https://vyvlive.com/ar  
+Headless web platform built with React and Django REST API  
+- Decoupled frontend and backend architecture  
+- Multilingual SEO-oriented implementation  
+- API-based content delivery  
 
 ---
 
-**Food Ordering System (Food Delivery Pro)** 🔗 https://github.com/mzughbor/Food-Ordering-Platform  
-[cite_start]Enterprise-style Django application with a focus on data integrity[cite: 13, 14].
-- [cite_start]Implemented robust Authentication and Role-Based Access Control (RBAC)[cite: 14, 17].
-- [cite_start]Deployed on **Ubuntu Server + Nginx + Gunicorn** with full SSL configuration.
+**Food Ordering System**  
+🔗 https://github.com/mzughbor/Food-Ordering-Platform  
+Full-stack Django application  
+- Authentication and role-based access  
+- Order and data management  
+- PostgreSQL backend  
 
 ---
 
-**WordPress Web Scraper Plugin** 🔗 https://github.com/mzughbor/WeScraper  
-[cite_start]Custom tool for automated data extraction and backend processing[cite: 38, 39].
+**WordPress Web Scraper Plugin**  
+🔗 https://github.com/mzughbor/WeScraper  
+Custom plugin for automated data extraction  
+- Backend processing and automation logic  
+- Structured content workflows  
 
 ---
 
@@ -58,6 +73,14 @@ I am currently specializing in **Web Security (OWASP Top 10)** and **Offensive S
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mzughbor&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mzughbor&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzughbor&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -71,4 +94,13 @@ I am currently specializing in **Web Security (OWASP Top 10)** and **Offensive S
   <a href="https://www.linkedin.com/in/mzughbor">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://github.com/mzughbor">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mzughbor&color=blue&style=for-the-badge&label=Visitors" />
 </p>

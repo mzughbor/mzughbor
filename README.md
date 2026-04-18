@@ -1,20 +1,24 @@
+<p align="center">
+  <code>client → nginx → app → database | validate → authorize → log</code>
+</p>
+
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahmoud%20Zughbor&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Backend%20%26%20Web%20Security&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahmoud%20Zughbor&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Web%20Security%20|%20Linux&descAlignY=55&descAlign=50" />
 </p>
 
 ---
 
 <h1 align="center">Hi 👋 I'm Mahmoud Zughbor</h1>
-<h3 align="center">Full-Stack Developer with a focus on backend systems, infrastructure, and web security</h3>
+<h3 align="center">Full-Stack Developer | Web Security | Infrastructure | Linux</h3>
 
 ---
 
 ### 🧠 Profile  
 
-I am a junior full-stack developer with practical experience building and deploying web applications. My work focuses on backend development, API design, and managing Linux-based environments.
+I am a junior full-stack developer with practical experience building and deploying web applications. My work includes API development, data handling, and working with Linux-based environments.
 
-I am currently strengthening my knowledge in web security (OWASP Top 10) and system design, with the goal of contributing to secure and scalable production systems.
+I am currently strengthening my knowledge in web security (OWASP Top 10) and system design, aiming to contribute to secure and reliable production systems.
 
 ---
 
@@ -44,7 +48,7 @@ Web Security (OWASP Top 10), Secure Coding Practices
 Headless web platform built with React and Django REST API  
 - Decoupled frontend and backend architecture  
 - Multilingual SEO-oriented implementation  
-- Designed and integrated API-based content delivery  
+- API-based content delivery  
 
 ---
 
@@ -52,16 +56,16 @@ Headless web platform built with React and Django REST API
 🔗 https://github.com/mzughbor/Food-Ordering-Platform  
 Full-stack Django application  
 - Authentication and role-based access  
-- Order and data management system  
-- PostgreSQL-backed backend  
+- Order and data management  
+- PostgreSQL backend  
 
 ---
 
 **WordPress Web Scraper Plugin**  
 🔗 https://github.com/mzughbor/WeScraper  
 Custom plugin for automated data extraction  
-- Backend data processing and automation logic  
-- Designed for structured content collection workflows  
+- Backend processing and automation logic  
+- Structured content collection workflows  
 
 ---
 

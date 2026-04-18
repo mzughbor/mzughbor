@@ -1,58 +1,52 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahmoud%20Zughbor%20💎&fontSize=40&fontAlignY=35&desc=Web%20Developer%20|%20Python%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahmoud%20Zughbor%20💎&fontSize=40&fontAlignY=35&desc=Full-Stack%20Engineer%20|%20Security%20Enthusiast%20|%20Linux%20&%20Cloud&descAlignY=55&descAlign=50" />
 </p>
 
 ---
 
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">💎 Junior Web Developer | Python Enthusiast | Problem Solver 💎</h3>
+<h3 align="center">💎 Full-Stack Developer transitioning into Security Engineering 💎</h3>
 
 ---
 
 ### ✨ About Me  
-🔹 Passionate about building **responsive websites** and **data-driven apps**  
-🔹 Skilled in **WordPress, Python, and full-stack web development**  
-🔹 Currently exploring and playing with Chess♟️, Algorithms🎰, Data Sturactures and Electronic music🎹  
-🔹 Aiming to create tools that make a real impact to change people's lives for the better.🌍
+[cite_start]🔹 **Full-Stack Professional:** Currently building scalable applications with **Django, Next.js, and React**[cite: 4, 30].
+[cite_start]🔹 **Infrastructure & SecOps:** Experienced in managing **Linux (Ubuntu) servers**, reverse proxies (Nginx), and CI/CD pipelines[cite: 10, 18, 29].  
+🔹 **Security Mindset:** Actively deepening my knowledge in **Offensive Security** and **OWASP Top 10** to build more resilient systems.
+🔹 **Impact-Driven:** Passionate about the intersection of AI, automation, and cybersecurity to create secure digital environments.
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack & Security Tools
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 <p align="center">
-  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 <p align="center">
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security-Offensive-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects  
+### 🚀 Professional Highlights & Projects  
 
-- 🎨 **[My Portfolio](https://github.com/mzughbor/portfolio)** – Personal developer portfolio showcasing projects & skills.  
-- 🔍 **[PHP Web Scraper Plugin](https://github.com/mzughbor/WeScraper)** – Custom WordPress plugin for automated data extraction.  
-- 🎥 **[Vyvlive – Headless Live Site](https://vyvlive.com/ar)** –  A multilingual, SEO-ready headless web platform. The frontend was built in **React + Tailwind**, fully decoupled from the backend with **Django REST API**... Content delivery flow, server-side rendering for SEO in multiple languages. [🌐 Live Demo](https://vyvlive.com)
-- 🍔 **[Omnifood Responsive Page](https://github.com/mzughbor/recovery-p-c01-s08-omnifood-project-responsive-version)** – Modern fictional food website with responsive design. [🌐 Live Demo](https://mzughbor.github.io/recovery-p-c01-s08-omnifood-project-responsive-version/index.html)
-- 🍔🍔 **[Food Ordering Platform](https://github.com/mzughbor/Food-Ordering-Platform)** – Full Stack Food Ordering & Delivery System with responsive design, Django in the backend with Bootstrap5 to extend the front omnifood page project. [🌐 Live Demo](https://mzughbor.duckdns.org/food-delivery-pro/)
+- [cite_start]🛡️ **Infrastructure Management:** Currently managing Linux server environments and automated deployment pipelines for **Falcon of Codes**[cite: 29].
+- 🎥 **[VyvLive](https://vyvlive.com/ar)** – A high-performance, multilingual headless platform built with **React and Django REST API**. [cite_start]Implemented custom SEO strategies and secure authentication flows[cite: 19, 21, 23].
+- [cite_start]🍔 **[Food Delivery Pro](https://github.com/mzughbor/Food-Ordering-Platform)** – A complex full-stack ecosystem with admin dashboards and secure order management using **PostgreSQL**[cite: 13, 14, 17].
+- [cite_start]🔍 **[Web Scraper Plugin](https://github.com/mzughbor/WeScraper)** – Automated data extraction tool for WordPress, optimizing backend data flows[cite: 39].
 
 ---
 
@@ -63,28 +57,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzughbor&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzughbor&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Connect & Collaborate  
 
 <p align="center">
   <a href="mailto:mzughbor@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mzughbor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mzughbor"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
-
-✨ *“Code is like art — simple, elegant, and timeless.”* ✨  
+✨ *"Securing the web, one commit at a time."* ✨  
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mzughbor&color=blue&style=for-the-badge&label=Visitors" alt="Visitor Count" style="vertical-align: middle;" />
-  <p style="vertical-align: middle;"> 💜 wish you the best 💠</p>
+  <img src="https://komarev.com/ghpvc/?username=mzughbor&color=blue&style=for-the-badge&label=Visitors" alt="Visitor Count" />
 </div>

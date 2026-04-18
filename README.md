@@ -16,56 +16,61 @@
 
 ### 🧠 Profile  
 
-Full-stack developer with experience building and deploying web applications. Work includes API development, data handling, and operating Linux-based environments.
+Full-stack developer with experience building and deploying web applications. Work includes API development, data handling, and working with Linux-based environments.
 
 Currently developing deeper knowledge in web security (OWASP Top 10) and system design, with an emphasis on building secure and reliable systems.
 
 ---
 
-### ⚙️ Technical Skills  
+### 🛠️ Tech Stack  
 
-**Languages**  
-Python, JavaScript, PHP  
-
-**Frameworks & Libraries**  
-Django, React, Next.js  
-
-**Databases**  
-PostgreSQL, MySQL, SQLite  
-
-**Infrastructure & Tools**  
-Linux (Ubuntu), Nginx, Git, REST APIs  
-
-**Currently Learning**  
-Web Security (OWASP Top 10), Secure Coding Practices  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,react,nextjs,django,postgres,mysql,sqlite,nginx,linux,git" />
+</p>
 
 ---
 
-### 🚀 Selected Projects  
+### 🚀 Featured Project  
+
+**Food Delivery Platform (Full-Stack System)**  
+🔗 https://food-delivery-pro.onrender.com/
+
+Originally based on a responsive frontend concept inspired by the Omnifood project:  
+🔗 https://mzughbor.github.io/recovery-p-c01-s08-omnifood-project-responsive-version/index.html  
+
+Extended into a full-stack application with backend integration using Django.
+
+**Key Features**
+- Authentication and role-based access (Admin, Restaurant Owner, Delivery, Customer)  
+- Order management and workflow system  
+- Backend API and database integration (PostgreSQL)  
+- Responsive frontend extended from static design to dynamic system  
+
+**Demo Accounts (for testing only)**  
+- Admin: `mzughbor / mzug123456`  
+- Restaurant Owner: `restaurant_owner01 / Lost4Dream`  
+- Delivery: `del-01-test / Lost4Dream`  
+- Customer: `jouly / Lost4Dream`  
+
+> Demo accounts are limited and intended for testing application features only.
+
+---
+
+### 🚀 Other Projects  
 
 **VyvLive Platform**  
 🔗 https://vyvlive.com/ar  
-Headless web platform built with React and Django REST API  
-- Decoupled frontend and backend architecture  
-- Multilingual SEO-oriented implementation  
-- API-based content delivery  
-
----
-
-**Food Ordering System**  
-🔗 https://github.com/mzughbor/Food-Ordering-Platform  
-Full-stack Django application  
-- Authentication and role-based access  
-- Order and data management  
-- PostgreSQL backend  
+Headless platform using React and Django REST API  
+- Decoupled frontend/backend  
+- Multilingual SEO-ready structure  
+- API-driven content delivery  
 
 ---
 
 **WordPress Web Scraper Plugin**  
 🔗 https://github.com/mzughbor/WeScraper  
-Custom plugin for automated data extraction  
-- Backend processing and automation logic  
-- Structured content workflows  
+- Automated data extraction  
+- Backend processing workflows  
 
 ---
 

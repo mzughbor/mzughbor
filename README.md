@@ -16,9 +16,9 @@
 
 ### 🧠 Profile  
 
-I am a junior full-stack developer with practical experience building and deploying web applications. My work includes API development, data handling, and working with Linux-based environments.
+Full-stack developer with experience building and deploying web applications. Work includes API development, data handling, and operating Linux-based environments.
 
-I am currently strengthening my knowledge in web security (OWASP Top 10) and system design, aiming to contribute to secure and reliable production systems.
+Currently developing deeper knowledge in web security (OWASP Top 10) and system design, with an emphasis on building secure and reliable systems.
 
 ---
 
@@ -65,7 +65,7 @@ Full-stack Django application
 🔗 https://github.com/mzughbor/WeScraper  
 Custom plugin for automated data extraction  
 - Backend processing and automation logic  
-- Structured content collection workflows  
+- Structured content workflows  
 
 ---
 
